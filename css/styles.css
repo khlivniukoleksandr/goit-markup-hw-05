@@ -617,6 +617,7 @@ a {
 .input-icon {
   position: absolute;
   left: 19px;
+  top: 50%;
 }
 .input-wrapper:hover .input-icon {
   fill: #4d5ae5;
