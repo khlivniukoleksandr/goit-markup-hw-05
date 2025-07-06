@@ -625,6 +625,7 @@ a {
   padding-left: 16px;
   padding-top: 8px;
   overflow-y: auto;
+  margin-bottom: 16px;
 }
 .modal-textarea::placeholder {
   font-weight: 400;
@@ -635,6 +636,7 @@ a {
 .checkbox-privacy {
   display: flex;
   gap: 8px;
+  margin-bottom: 24px;
 }
 .checkbox-privacy-text {
   font-weight: 400;
