@@ -615,7 +615,8 @@ a {
 .modal-input:focus {
   border-color: #4d5ae5;
 }
-.pop-up-button-svg-icon {
+.modal-input:hover,
+.modal-input:focus .pop-up-button-svg-icon {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .pop-up-close-btn:hover .pop-up-button-svg-icon,
